@@ -1,0 +1,6 @@
+framework module Pods_Upcheck_UpcheckUITests {
+  umbrella header "Pods-Upcheck-UpcheckUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
